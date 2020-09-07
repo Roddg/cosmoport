@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="com.space.controller.GetCountTest" time="0.098" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="com.space.controller.GetCountTest" time="0.09" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -64,12 +64,12 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersPlanet" time="0.01"/>
-  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersShipTypeMaxCrewSize" time="0.013"/>
-  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersNameAfterMaxRating" time="0.009"/>
-  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersMinRatingMinCrewSizeMinSpeed" time="0.013"/>
+  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersPlanet" time="0.008"/>
+  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersShipTypeMaxCrewSize" time="0.012"/>
+  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersNameAfterMaxRating" time="0.011"/>
+  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersMinRatingMinCrewSizeMinSpeed" time="0.011"/>
   <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersShipTypeBeforeMaxSpeed" time="0.011"/>
-  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersIsUsedMinMaxSpeed" time="0.01"/>
-  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersShipTypeIsUsed" time="0.012"/>
-  <testcase classname="com.space.controller.GetCountTest" name="getCountWithoutFiltersReturnAllShips" time="0.02"/>
+  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersIsUsedMinMaxSpeed" time="0.012"/>
+  <testcase classname="com.space.controller.GetCountTest" name="getCountWithFiltersShipTypeIsUsed" time="0.013"/>
+  <testcase classname="com.space.controller.GetCountTest" name="getCountWithoutFiltersReturnAllShips" time="0.012"/>
 </testsuite>

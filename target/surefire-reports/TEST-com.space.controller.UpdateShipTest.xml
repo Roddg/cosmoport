@@ -64,15 +64,15 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipEmptyBodyTest" time="0.006"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipEmptyBodyTest" time="0.015"/>
   <testcase classname="com.space.controller.UpdateShipTest" name="updateShipNotExistTest" time="0.007"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidNameTest" time="0.011"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipWithDataTest1" time="0.019"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipWithDataTest2" time="0.016"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipIdZeroTest" time="0.006"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidCrewSizeTest" time="0.012"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipWithIdTest" time="0.017"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipRatingTest" time="0.012"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidCrewSizeTest2" time="0.011"/>
-  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidProdDateTest" time="0.011"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidNameTest" time="0.009"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipWithDataTest1" time="0.014"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipWithDataTest2" time="0.014"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipIdZeroTest" time="0.009"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidCrewSizeTest" time="0.008"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipWithIdTest" time="0.015"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipRatingTest" time="0.018"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidCrewSizeTest2" time="0.01"/>
+  <testcase classname="com.space.controller.UpdateShipTest" name="updateShipInvalidProdDateTest" time="0.009"/>
 </testsuite>
